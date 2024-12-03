@@ -66,8 +66,8 @@
 ## **Technologies Used 🖥️**
 
 - **React**: Frontend framework for creating interactive UI components.
-- **Gradio**: Interface library for connecting models to the UI.
 - **JavaScript**: Core language for handling state and functionality.
+- **CSS**: For styling and transitions to enhance user experience.
 
 ---
 
@@ -81,10 +81,9 @@
 ---
 
 ## **Screenshots 📸**
-
-<img width="800" alt="Gymmy Screenshot 1" src="https://github.com/user-attachments/assets/your-screenshot-1.png">
-<img width="800" alt="Gymmy Screenshot 2" src="https://github.com/user-attachments/assets/your-screenshot-2.png">
-<img width="800" alt="Gymmy Screenshot 3" src="https://github.com/user-attachments/assets/your-screenshot-3.png">
+![Screenshot 2024-12-03 at 6 44 34 PM](https://github.com/user-attachments/assets/f399a7e6-443b-4d32-aac2-d8a8411f4735)
+![Screenshot 2024-12-03 at 6 44 37 PM](https://github.com/user-attachments/assets/ed9b80ce-dc10-450a-832a-f97ab4fbc2f1)
+![Screenshot 2024-12-03 at 6 44 41 PM](https://github.com/user-attachments/assets/fde4e28e-861d-4383-b77c-9c256b0e3f23)
 
 ---
 
