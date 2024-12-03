@@ -33,6 +33,28 @@
 
 ---
 
+## **How to Use the Website 🚀**
+
+1. **Visit the Website**:  
+   Go to the website: [gymmythegymbuddy.netlify.app](https://gymmythegymbuddy.netlify.app).
+
+2. **Select Your Preferences**:
+   - Choose your workout split.
+   - Pick the muscle groups you want to target.
+   - Set your fitness goal (strength, power, endurance).
+
+3. **Generate a Workout**:  
+   Click the "Let's go!" button to generate a customized workout based on your preferences.
+
+4. **Start the Workout**:
+   - Follow along with the generated workout.
+   - Track sets, reps, and rest times with the interactive workout cards.
+
+5. **Repeat**:  
+   Generate new workouts anytime based on your changing preferences!
+
+---
+
 ## **Code Overview 🛠️**
 
 ### **App.js**
